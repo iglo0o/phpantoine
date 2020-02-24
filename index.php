@@ -1,4 +1,5 @@
 <?php
+//bonjour michel
 require('inc/func.php');
 $title = 'Formulaire';
 // Traitement du formulaire
